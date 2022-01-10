@@ -12,7 +12,7 @@ UI/front
 	"start": "node ./bin/www" 
 }
 3.npx nodemon index.js
-4.install extension Live Server
+4.install extension Live Server (์ไม่จำเป็น)
 5.npm install express
 6.npm install ejs
 7.npm install axios
