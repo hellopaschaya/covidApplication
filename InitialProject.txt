@@ -1,0 +1,25 @@
+backend
+1.open project CovidApplication
+2.run project
+----------------------------
+UI/front
+1.npm init -y
+2.npm install nodemon
+2.1 package.json add
+"scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node ./bin/www" 
+}
+3.npx nodemon index.js
+4.install extension Live Server
+5.npm install express
+6.npm install ejs
+7.npm install axios
+8.npm install npm install bootstrap
+----------------------------
+DB
+1.Attach file .mdf to your DB
+----------------------------
+run node.js 
+1.npm start
+2.open browser localhost:8080
