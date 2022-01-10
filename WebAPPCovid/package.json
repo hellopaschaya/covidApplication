@@ -1,0 +1,23 @@
+{
+  "name": "webappcovid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/www"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alerts": "^0.1.3",
+    "axios": "^0.24.0",
+    "bootstrap": "^5.1.3",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "jquery": "^3.6.0",
+    "js-alert": "^1.0.4",
+    "nodemon": "^2.0.15"
+  }
+}
