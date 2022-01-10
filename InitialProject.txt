@@ -1,5 +1,6 @@
 backend
 1.open project CovidApplication
+2.properties >>> launchSetting.json >>> change ssl Port to 44360
 2.run project
 ----------------------------
 UI/front
